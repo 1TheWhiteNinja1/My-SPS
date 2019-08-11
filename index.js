@@ -32,7 +32,7 @@ const search = require('yt-search');
 const configs = require("./configs.json");
 const timestamp = require("console-timestamp");
 var botConfigs = {
-    token: "NjA5ODQ2MDgwMjg0MjYyNDMy.XVA4Uw.sLVoB9UqLJnk56Ep5psJ4nv-cP4",
+    token: "NjA5ODQ2MDgwMjg0MjYyNDMy.XVA5bA.P2oeO1l15AZKIW8ozyhsyYKLjzI",
     prefix: "$",
     gameStatus: "$help",
     statusType: "WATCHING",
